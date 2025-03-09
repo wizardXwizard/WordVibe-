@@ -1,0 +1,1752 @@
+[
+    {
+        "word": "Alleviate",
+        "english_meaning": "Reduce pain or difficulty",
+        "hindi_meaning": "कम करना, राहत देना"
+    },
+    {
+        "word": "Ambiguous",
+        "english_meaning": "Having more than one meaning",
+        "hindi_meaning": "अस्पष्ट, दोहरे अर्थ वाला"
+    },
+    {
+        "word": "Amiable",
+        "english_meaning": "Friendly and pleasant",
+        "hindi_meaning": "मिलनसार, प्रिय"
+    },
+    {
+        "word": "Apprehensive",
+        "english_meaning": "Worried or anxious",
+        "hindi_meaning": "चिंतित, सशंकित"
+    },
+    {
+        "word": "Arbitrary",
+        "english_meaning": "Based on random choice",
+        "hindi_meaning": "मनमाना, बिना तर्क का"
+    },
+    {
+        "word": "Astute",
+        "english_meaning": "Clever and perceptive",
+        "hindi_meaning": "चतुर, चालाक"
+    },
+    {
+        "word": "Belligerent",
+        "english_meaning": "Aggressive or hostile",
+        "hindi_meaning": "लड़ाकू, आक्रामक"
+    },
+    {
+        "word": "Benevolent",
+        "english_meaning": "Kind and generous",
+        "hindi_meaning": "दयालु, परोपकारी"
+    },
+    {
+        "word": "Blatant",
+        "english_meaning": "Very obvious",
+        "hindi_meaning": "ज़ाहिर, खुल्लमखुल्ला"
+    },
+    {
+        "word": "Candid",
+        "english_meaning": "Honest and direct",
+        "hindi_meaning": "स्पष्टवादी, सच्चा"
+    },
+    {
+        "word": "Coherent",
+        "english_meaning": "Logical and clear",
+        "hindi_meaning": "तार्किक, साफ-सुथरा"
+    },
+    {
+        "word": "Complacent",
+        "english_meaning": "Too self-satisfied",
+        "hindi_meaning": "आत्मसंतुष्ट, लापरवाह"
+    },
+    {
+        "word": "Consensus",
+        "english_meaning": "General agreement",
+        "hindi_meaning": "सर्वसम्मति, एकमत"
+    },
+    {
+        "word": "Contemplate",
+        "english_meaning": "Think deeply",
+        "hindi_meaning": "गहराई से सोचना, विचार करना"
+    },
+    {
+        "word": "Convoluted",
+        "english_meaning": "Complicated or confusing",
+        "hindi_meaning": "जटिल, उलझा हुआ"
+    },
+    {
+        "word": "Credible",
+        "english_meaning": "Believable or trustworthy",
+        "hindi_meaning": "विश्वसनीय, भरोसेमंद"
+    },
+    {
+        "word": "Cynical",
+        "english_meaning": "Distrustful of others' motives",
+        "hindi_meaning": "संदेहवादी, कटु दृष्टिकोण वाला"
+    },
+    {
+        "word": "Daunting",
+        "english_meaning": "Scary or intimidating",
+        "hindi_meaning": "डरावना, चुनौतीपूर्ण"
+    },
+    {
+        "word": "Debunk",
+        "english_meaning": "Expose as false",
+        "hindi_meaning": "झूठ साबित करना"
+    },
+    {
+        "word": "Defer",
+        "english_meaning": "Postpone or delay",
+        "hindi_meaning": "स्थगित करना, टालना"
+    },
+    {
+        "word": "Demeanor",
+        "english_meaning": "Behavior or attitude",
+        "hindi_meaning": "स्वभाव, चाल-चलन"
+    },
+    {
+        "word": "Deprive",
+        "english_meaning": "Deny something",
+        "hindi_meaning": "वंचित करना"
+    },
+    {
+        "word": "Deter",
+        "english_meaning": "Prevent or discourage",
+        "hindi_meaning": "रोकना, हतोत्साहित करना"
+    },
+    {
+        "word": "Diligent",
+        "english_meaning": "Hardworking and careful",
+        "hindi_meaning": "मेहनती, लगनशील"
+    },
+    {
+        "word": "Discreet",
+        "english_meaning": "Careful or private",
+        "hindi_meaning": "सावधान, सतर्क"
+    },
+    {
+        "word": "Disdain",
+        "english_meaning": "Strong dislike or disrespect",
+        "hindi_meaning": "तिरस्कार, घृणा"
+    },
+    {
+        "word": "Disparage",
+        "english_meaning": "Criticize or belittle",
+        "hindi_meaning": "निंदा करना, बदनाम करना"
+    },
+    {
+        "word": "Diverse",
+        "english_meaning": "Varied or different",
+        "hindi_meaning": "विविध, अलग-अलग"
+    },
+    {
+        "word": "Docile",
+        "english_meaning": "Obedient and easy to control",
+        "hindi_meaning": "आज्ञाकारी, सरल"
+    },
+    {
+        "word": "Eccentric",
+        "english_meaning": "Unusual or quirky",
+        "hindi_meaning": "अजीब, सनकी"
+    },
+    {
+        "word": "Ecstatic",
+        "english_meaning": "Extremely happy",
+        "hindi_meaning": "बहुत खुश, उल्लासित"
+    },
+    {
+        "word": "Eloquent",
+        "english_meaning": "Fluent and expressive in speech",
+        "hindi_meaning": "प्रभावशाली वक्ता"
+    },
+    {
+        "word": "Elusive",
+        "english_meaning": "Hard to find or catch",
+        "hindi_meaning": "पकड़ में न आने वाला"
+    },
+    {
+        "word": "Embark",
+        "english_meaning": "Begin a journey",
+        "hindi_meaning": "शुरू करना, यात्रा पर निकलना"
+    },
+    {
+        "word": "Empathy",
+        "english_meaning": "Understanding others' feelings",
+        "hindi_meaning": "सहानुभूति, हमदर्दी"
+    },
+    {
+        "word": "Encompass",
+        "english_meaning": "Include or surround",
+        "hindi_meaning": "शामिल करना, घेरना"
+    },
+    {
+        "word": "Endorse",
+        "english_meaning": "Approve or support",
+        "hindi_meaning": "समर्थन करना"
+    },
+    {
+        "word": "Enigma",
+        "english_meaning": "A mystery or puzzle",
+        "hindi_meaning": "पहेली, रहस्य"
+    },
+    {
+        "word": "Entice",
+        "english_meaning": "Attract or tempt",
+        "hindi_meaning": "लुभाना, आकर्षित करना"
+    },
+    {
+        "word": "Erratic",
+        "english_meaning": "Unpredictable or irregular",
+        "hindi_meaning": "अनियमित, अस्थिर"
+    },
+    {
+        "word": "Exacerbate",
+        "english_meaning": "Make worse",
+        "hindi_meaning": "और बिगाड़ना"
+    },
+    {
+        "word": "Exemplary",
+        "english_meaning": "Outstanding or ideal",
+        "hindi_meaning": "उत्कृष्ट, आदर्श"
+    },
+    {
+        "word": "Exorbitant",
+        "english_meaning": "Excessively high",
+        "hindi_meaning": "अत्यधिक, बहुत महंगा"
+    },
+    {
+        "word": "Fabricate",
+        "english_meaning": "Make up or lie",
+        "hindi_meaning": "गढ़ना, झूठ बोलना"
+    },
+    {
+        "word": "Facilitate",
+        "english_meaning": "Make easier",
+        "hindi_meaning": "सुगम बनाना"
+    },
+    {
+        "word": "Fallacy",
+        "english_meaning": "A false belief",
+        "hindi_meaning": "भ्रांति, गलत धारणा"
+    },
+    {
+        "word": "Feasible",
+        "english_meaning": "Possible or practical",
+        "hindi_meaning": "संभव, व्यावहारिक"
+    },
+    {
+        "word": "Fluctuate",
+        "english_meaning": "Change frequently",
+        "hindi_meaning": "उतार-चढ़ाव होना"
+    },
+    {
+        "word": "Formidable",
+        "english_meaning": "Difficult to deal with",
+        "hindi_meaning": "डरावना, कठिन"
+    },
+    {
+        "word": "Futile",
+        "english_meaning": "Useless or pointless",
+        "hindi_meaning": "व्यर्थ, निष्फल"
+    },
+    {
+        "word": "Genuine",
+        "english_meaning": "Real or authentic",
+        "hindi_meaning": "असली, वास्तविक"
+    },
+    {
+        "word": "Grim",
+        "english_meaning": "Depressing or serious",
+        "hindi_meaning": "गंभीर, उदास करने वाला"
+    },
+    {
+        "word": "Haphazard",
+        "english_meaning": "Random or unplanned",
+        "hindi_meaning": "अव्यवस्थित, अनियोजित"
+    },
+    {
+        "word": "Hindrance",
+        "english_meaning": "Obstacle or barrier",
+        "hindi_meaning": "बाधा, रुकावट"
+    },
+    {
+        "word": "Hypocrite",
+        "english_meaning": "Someone who pretends to have values they don’t follow",
+        "hindi_meaning": "ढोंगी, पाखंडी"
+    },
+    {
+        "word": "Immaculate",
+        "english_meaning": "Perfectly clean or flawless",
+        "hindi_meaning": "एकदम साफ, निर्दोष"
+    },
+    {
+        "word": "Imminent",
+        "english_meaning": "About to happen",
+        "hindi_meaning": "आसन्न, शीघ्र होने वाला"
+    },
+    {
+        "word": "Impartial",
+        "english_meaning": "Neutral or fair",
+        "hindi_meaning": "निष्पक्ष, न्यायसंगत"
+    },
+    {
+        "word": "Inadvertent",
+        "english_meaning": "Accidental or unintentional",
+        "hindi_meaning": "अनजाने में किया गया, असावधान"
+    },
+    {
+        "word": "Indignant",
+        "english_meaning": "Angry at unfairness",
+        "hindi_meaning": "अन्याय पर क्रोधित, आक्रोशित"
+    },
+    {
+        "word": "Indulge",
+        "english_meaning": "Give in to desires",
+        "hindi_meaning": "लिप्त होना, आनंद लेना"
+    },
+    {
+        "word": "Inevitable",
+        "english_meaning": "Certain to happen",
+        "hindi_meaning": "अवश्यंभावी, टालने योग्य नहीं"
+    },
+    {
+        "word": "Infamous",
+        "english_meaning": "Famous for a bad reason",
+        "hindi_meaning": "कुख्यात, बदनाम"
+    },
+    {
+        "word": "Innate",
+        "english_meaning": "Natural or inborn",
+        "hindi_meaning": "जन्मजात, स्वाभाविक"
+    },
+    {
+        "word": "Innovative",
+        "english_meaning": "Creative or new",
+        "hindi_meaning": "नवीन, रचनात्मक"
+    },
+    {
+        "word": "Insatiable",
+        "english_meaning": "Never satisfied",
+        "hindi_meaning": "अतृप्त, असंतोषी"
+    },
+    {
+        "word": "Intrepid",
+        "english_meaning": "Brave or fearless",
+        "hindi_meaning": "साहसी, निडर"
+    },
+    {
+        "word": "Intrinsic",
+        "english_meaning": "Naturally belonging to something",
+        "hindi_meaning": "मौलिक, स्वाभाविक"
+    },
+    {
+        "word": "Jubilant",
+        "english_meaning": "Very happy",
+        "hindi_meaning": "बहुत खुश, उल्लासित"
+    },
+    {
+        "word": "Lethargic",
+        "english_meaning": "Lacking energy",
+        "hindi_meaning": "सुस्त, आलसी"
+    },
+    {
+        "word": "Lucid",
+        "english_meaning": "Clear and easy to understand",
+        "hindi_meaning": "स्पष्ट, सुलभ"
+    },
+    {
+        "word": "Malicious",
+        "english_meaning": "Intending harm",
+        "hindi_meaning": "द्वेषपूर्ण, हानिकारक"
+    },
+    {
+        "word": "Mediocre",
+        "english_meaning": "Average or not special",
+        "hindi_meaning": "साधारण, सामान्य"
+    },
+    {
+        "word": "Meticulous",
+        "english_meaning": "Very careful with details",
+        "hindi_meaning": "सूक्ष्म निरीक्षण करने वाला, बहुत सतर्क"
+    },
+    {
+        "word": "Momentous",
+        "english_meaning": "Very important",
+        "hindi_meaning": "अत्यंत महत्वपूर्ण"
+    },
+    {
+        "word": "Monotonous",
+        "english_meaning": "Boring and repetitive",
+        "hindi_meaning": "नीरस, एकरस"
+    },
+    {
+        "word": "Negligent",
+        "english_meaning": "Careless or irresponsible",
+        "hindi_meaning": "लापरवाह, असावधान"
+    },
+    {
+        "word": "Notorious",
+        "english_meaning": "Known for something bad",
+        "hindi_meaning": "कुख्यात, बदनाम"
+    },
+    {
+        "word": "Oblivious",
+        "english_meaning": "Unaware",
+        "hindi_meaning": "अनजान, बेखबर"
+    },
+    {
+        "word": "Obsolete",
+        "english_meaning": "No longer useful",
+        "hindi_meaning": "अप्रचलित, पुराना"
+    },
+    {
+        "word": "Ominous",
+        "english_meaning": "Giving a bad feeling",
+        "hindi_meaning": "अशुभ, डरावना"
+    },
+    {
+        "word": "Optimistic",
+        "english_meaning": "Hopeful and positive",
+        "hindi_meaning": "आशावादी, सकारात्मक"
+    },
+    {
+        "word": "Ornate",
+        "english_meaning": "Decorated and fancy",
+        "hindi_meaning": "अलंकृत, सजीव"
+    },
+    {
+        "word": "Overwhelm",
+        "english_meaning": "Overpower or stress out",
+        "hindi_meaning": "अभिभूत करना, हावी होना"
+    },
+    {
+        "word": "Peculiar",
+        "english_meaning": "Strange or unusual",
+        "hindi_meaning": "अजीब, असामान्य"
+    },
+    {
+        "word": "Perplexed",
+        "english_meaning": "Confused",
+        "hindi_meaning": "उलझन में, हैरान"
+    },
+    {
+        "word": "Plausible",
+        "english_meaning": "Believable",
+        "hindi_meaning": "विश्वसनीय, उचित"
+    },
+    {
+        "word": "Pragmatic",
+        "english_meaning": "Practical and realistic",
+        "hindi_meaning": "व्यावहारिक, यथार्थवादी"
+    },
+    {
+        "word": "Precarious",
+        "english_meaning": "Risky or unstable",
+        "hindi_meaning": "अस्थिर, जोखिम भरा"
+    },
+    {
+        "word": "Proficient",
+        "english_meaning": "Skilled or good at something",
+        "hindi_meaning": "कुशल, निपुण"
+    },
+    {
+        "word": "Prudent",
+        "english_meaning": "Wise and careful",
+        "hindi_meaning": "समझदार, विवेकशील"
+    },
+    {
+        "word": "Reiterate",
+        "english_meaning": "Repeat for clarity",
+        "hindi_meaning": "पुनः दोहराना, स्पष्ट करना"
+    },
+    {
+        "word": "Resilient",
+        "english_meaning": "Able to recover quickly",
+        "hindi_meaning": "लचीला, जल्दी उबरने वाला"
+    },
+    {
+        "word": "Scrutinize",
+        "english_meaning": "Examine closely",
+        "hindi_meaning": "बारीकी से जांचना, निरीक्षण करना"
+    },
+    {
+        "word": "Serene",
+        "english_meaning": "Calm and peaceful",
+        "hindi_meaning": "शांत, सौम्य"
+    },
+    {
+        "word": "Subtle",
+        "english_meaning": "Not obvious",
+        "hindi_meaning": "सूक्ष्म, हल्का"
+    },
+    {
+        "word": "Tedious",
+        "english_meaning": "Long and boring",
+        "hindi_meaning": "थकाऊ, नीरस"
+    },
+    {
+        "word": "Transient",
+        "english_meaning": "Temporary or short-lived",
+        "hindi_meaning": "अस्थायी, क्षणिक"
+    },
+    {
+        "word": "Vague",
+        "english_meaning": "Unclear or not specific",
+        "hindi_meaning": "अस्पष्ट, अनिश्चित"
+    },
+    {
+        "word": "Vulnerable",
+        "english_meaning": "Open to harm or attack",
+        "hindi_meaning": "कमजोर, असुरक्षित"
+    },
+    {
+        "word": "Abundant",
+        "english_meaning": "More than enough",
+        "hindi_meaning": "प्रचुर, पर्याप्त"
+    },
+    {
+        "word": "Adorn",
+        "english_meaning": "Decorate beautifully",
+        "hindi_meaning": "सजाना, अलंकृत करना"
+    },
+    {
+        "word": "Adversary",
+        "english_meaning": "Opponent or enemy",
+        "hindi_meaning": "प्रतिद्वंदी, शत्रु"
+    },
+    {
+        "word": "Adverse",
+        "english_meaning": "Unfavorable or harmful",
+        "hindi_meaning": "प्रतिकूल, हानिकारक"
+    },
+    {
+        "word": "Advocate",
+        "english_meaning": "Support or recommend",
+        "hindi_meaning": "समर्थन करना, सिफारिश करना"
+    },
+    {
+        "word": "Aesthetic",
+        "english_meaning": "Relating to beauty",
+        "hindi_meaning": "सौंदर्य संबंधी, सुंदरता से जुड़ा"
+    },
+    {
+        "word": "Affluent",
+        "english_meaning": "Wealthy or rich",
+        "hindi_meaning": "संपन्न, धनी"
+    },
+    {
+        "word": "Agile",
+        "english_meaning": "Quick and flexible",
+        "hindi_meaning": "फुर्तीला, तेज"
+    },
+    {
+        "word": "Akin",
+        "english_meaning": "Similar or related",
+        "hindi_meaning": "समान, संबंधित"
+    },
+    {
+        "word": "Allegiance",
+        "english_meaning": "Loyalty or commitment",
+        "hindi_meaning": "निष्ठा, प्रतिबद्धता"
+    },
+    {
+        "word": "Anecdote",
+        "english_meaning": "Short, interesting story",
+        "hindi_meaning": "लघु रोचक कथा"
+    },
+    {
+        "word": "Antagonize",
+        "english_meaning": "Provoke or annoy",
+        "hindi_meaning": "विरोध करना, चिढ़ाना"
+    },
+    {
+        "word": "Apathy",
+        "english_meaning": "Lack of interest",
+        "hindi_meaning": "उदासीनता, अरुचि"
+    },
+    {
+        "word": "Apt",
+        "english_meaning": "Appropriate or suitable",
+        "hindi_meaning": "उपयुक्त, सही"
+    },
+    {
+        "word": "Arid",
+        "english_meaning": "Extremely dry",
+        "hindi_meaning": "शुष्क, बंजर"
+    },
+    {
+        "word": "Articulate",
+        "english_meaning": "Express clearly",
+        "hindi_meaning": "स्पष्ट रूप से बोलना"
+    },
+    {
+        "word": "Assail",
+        "english_meaning": "Attack or criticize",
+        "hindi_meaning": "हमला करना, आलोचना करना"
+    },
+    {
+        "word": "Assimilate",
+        "english_meaning": "Absorb and integrate",
+        "hindi_meaning": "समाहित करना, अपनाना"
+    },
+    {
+        "word": "Astound",
+        "english_meaning": "Greatly surprise",
+        "hindi_meaning": "चकित कर देना"
+    },
+    {
+        "word": "Avid",
+        "english_meaning": "Eager or enthusiastic",
+        "hindi_meaning": "उत्साही, इच्छुक"
+    },
+    {
+        "word": "Banish",
+        "english_meaning": "Expel or send away",
+        "hindi_meaning": "निर्वासित करना, बाहर निकालना"
+    },
+    {
+        "word": "Barter",
+        "english_meaning": "Exchange goods without money",
+        "hindi_meaning": "वस्तु विनिमय करना"
+    },
+    {
+        "word": "Beckon",
+        "english_meaning": "Call or signal to come",
+        "hindi_meaning": "इशारा करके बुलाना"
+    },
+    {
+        "word": "Berate",
+        "english_meaning": "Scold harshly",
+        "hindi_meaning": "फटकारना, डांटना"
+    },
+    {
+        "word": "Bestow",
+        "english_meaning": "Give as a gift",
+        "hindi_meaning": "प्रदान करना, देना"
+    },
+    {
+        "word": "Bewilder",
+        "english_meaning": "Confuse greatly",
+        "hindi_meaning": "भ्रमित करना, चकरा देना"
+    },
+    {
+        "word": "Bleak",
+        "english_meaning": "Gloomy or hopeless",
+        "hindi_meaning": "निराशाजनक, उदास"
+    },
+    {
+        "word": "Blunder",
+        "english_meaning": "Stupid mistake",
+        "hindi_meaning": "भारी गलती, चूक"
+    },
+    {
+        "word": "Boisterous",
+        "english_meaning": "Loud and energetic",
+        "hindi_meaning": "शोरगुल वाला, जोशीला"
+    },
+    {
+        "word": "Brash",
+        "english_meaning": "Rude or reckless",
+        "hindi_meaning": "बेतकल्लुफ, लापरवाह"
+    },
+    {
+        "word": "Brazen",
+        "english_meaning": "Bold and shameless",
+        "hindi_meaning": "बेशर्म, निर्लज्ज"
+    },
+    {
+        "word": "Brittle",
+        "english_meaning": "Easily broken",
+        "hindi_meaning": "नाजुक, भंगुर"
+    },
+    {
+        "word": "Burgeon",
+        "english_meaning": "Grow or expand",
+        "hindi_meaning": "तेजी से बढ़ना, फैलना"
+    },
+    {
+        "word": "Callous",
+        "english_meaning": "Emotionally insensitive",
+        "hindi_meaning": "कठोर, निर्दयी"
+    },
+    {
+        "word": "Camaraderie",
+        "english_meaning": "Friendship and trust",
+        "hindi_meaning": "मित्रता, भाईचारा"
+    },
+    {
+        "word": "Candid",
+        "english_meaning": "Honest and direct",
+        "hindi_meaning": "स्पष्टवादी, निष्पक्ष"
+    },
+    {
+        "word": "Canny",
+        "english_meaning": "Clever and cautious",
+        "hindi_meaning": "चतुर और सतर्क"
+    },
+    {
+        "word": "Capricious",
+        "english_meaning": "Unpredictable and impulsive",
+        "hindi_meaning": "मनमौजी, अस्थिर"
+    },
+    {
+        "word": "Cease",
+        "english_meaning": "Stop completely",
+        "hindi_meaning": "रोकना, समाप्त करना"
+    },
+    {
+        "word": "Chastise",
+        "english_meaning": "Criticize or punish",
+        "hindi_meaning": "डांटना, सजा देना"
+    },
+    {
+        "word": "Clandestine",
+        "english_meaning": "Secret or hidden",
+        "hindi_meaning": "गुप्त, छुपा हुआ"
+    },
+    {
+        "word": "Coerce",
+        "english_meaning": "Force someone",
+        "hindi_meaning": "मजबूर करना, दबाव डालना"
+    },
+    {
+        "word": "Commemorate",
+        "english_meaning": "Honor or remember",
+        "hindi_meaning": "स्मरण करना, सम्मान देना"
+    },
+    {
+        "word": "Compel",
+        "english_meaning": "Force or push",
+        "hindi_meaning": "बाध्य करना, मजबूर करना"
+    },
+    {
+        "word": "Composure",
+        "english_meaning": "Calmness under stress",
+        "hindi_meaning": "आत्मसंयम, धैर्य"
+    },
+    {
+        "word": "Concise",
+        "english_meaning": "Short and clear",
+        "hindi_meaning": "संक्षिप्त, स्पष्ट"
+    },
+    {
+        "word": "Condone",
+        "english_meaning": "Accept or forgive bad behavior",
+        "hindi_meaning": "माफ करना, अनदेखा करना"
+    },
+    {
+        "word": "Conjecture",
+        "english_meaning": "Guess without proof",
+        "hindi_meaning": "अटकल, अनुमान"
+    },
+    {
+        "word": "Contempt",
+        "english_meaning": "Strong disrespect",
+        "hindi_meaning": "तिरस्कार, अवमानना"
+    },
+    {
+        "word": "Contrive",
+        "english_meaning": "Plan cleverly",
+        "hindi_meaning": "चतुराई से योजना बनाना"
+    },
+    {
+        "word": "Corroborate",
+        "english_meaning": "Confirm or support",
+        "hindi_meaning": "पुष्टि करना"
+    },
+    {
+        "word": "Counterfeit",
+        "english_meaning": "Fake or fraudulent",
+        "hindi_meaning": "नकली, जाली"
+    },
+    {
+        "word": "Cower",
+        "english_meaning": "Crouch in fear",
+        "hindi_meaning": "डर के मारे सिकुड़ना"
+    },
+    {
+        "word": "Culminate",
+        "english_meaning": "Reach the highest point",
+        "hindi_meaning": "चरम सीमा पर पहुँचना"
+    },
+    {
+        "word": "Cumbersome",
+        "english_meaning": "Heavy or difficult to handle",
+        "hindi_meaning": "बोझिल, भारी"
+    },
+    {
+        "word": "Curtail",
+        "english_meaning": "Cut short or reduce",
+        "hindi_meaning": "कम करना, घटाना"
+    },
+    {
+        "word": "Debilitated",
+        "english_meaning": "Weakened",
+        "hindi_meaning": "कमजोर, दुर्बल"
+    },
+    {
+        "word": "Decipher",
+        "english_meaning": "Decode or understand",
+        "hindi_meaning": "समझना, व्याख्या करना"
+    },
+    {
+        "word": "Deficient",
+        "english_meaning": "Lacking something essential",
+        "hindi_meaning": "अपर्याप्त, कमी होना"
+    },
+    {
+        "word": "Dejected",
+        "english_meaning": "Sad or depressed",
+        "hindi_meaning": "उदास, निराश"
+    },
+    {
+        "word": "Deliberate",
+        "english_meaning": "Done on purpose",
+        "hindi_meaning": "जानबूझकर किया गया"
+    },
+    {
+        "word": "Denounce",
+        "english_meaning": "Publicly criticize",
+        "hindi_meaning": "निंदा करना"
+    },
+    {
+        "word": "Deplore",
+        "english_meaning": "Strongly regret",
+        "hindi_meaning": "गहरा खेद प्रकट करना"
+    },
+    {
+        "word": "Deride",
+        "english_meaning": "Mock or ridicule",
+        "hindi_meaning": "उपहास उड़ाना, मजाक बनाना"
+    },
+    {
+        "word": "Desolate",
+        "english_meaning": "Empty and lonely",
+        "hindi_meaning": "वीरान, सुनसान"
+    },
+    {
+        "word": "Destitute",
+        "english_meaning": "Extremely poor",
+        "hindi_meaning": "अत्यंत गरीब, निर्धन"
+    },
+    {
+        "word": "Deteriorate",
+        "english_meaning": "Get worse",
+        "hindi_meaning": "बिगड़ना, गिरावट आना"
+    },
+    {
+        "word": "Detrimental",
+        "english_meaning": "Harmful or damaging",
+        "hindi_meaning": "हानिकारक, नुकसानदेह"
+    },
+    {
+        "word": "Devout",
+        "english_meaning": "Deeply religious",
+        "hindi_meaning": "आस्थावान, भक्त"
+    },
+    {
+        "word": "Diligent",
+        "english_meaning": "Hardworking and careful",
+        "hindi_meaning": "परिश्रमी, मेहनती"
+    },
+    {
+        "word": "Dispel",
+        "english_meaning": "Drive away a feeling or belief",
+        "hindi_meaning": "दूर करना, मिटाना"
+    },
+    {
+        "word": "Disperse",
+        "english_meaning": "Scatter in different directions",
+        "hindi_meaning": "फैलाना, बिखेरना"
+    },
+    {
+        "word": "Dissuade",
+        "english_meaning": "Persuade against something",
+        "hindi_meaning": "रोकना, समझाना"
+    },
+    {
+        "word": "Domineering",
+        "english_meaning": "Overly controlling",
+        "hindi_meaning": "हावी होने वाला, दबंग"
+    },
+    {
+        "word": "Dubious",
+        "english_meaning": "Doubtful or suspicious",
+        "hindi_meaning": "संदेहास्पद, शंकास्पद"
+    },
+    {
+        "word": "Ebullient",
+        "english_meaning": "Very enthusiastic",
+        "hindi_meaning": "जोशीला, उल्लासपूर्ण"
+    },
+    {
+        "word": "Eccentric",
+        "english_meaning": "Unusual or odd",
+        "hindi_meaning": "अजीब, सनकी"
+    },
+    {
+        "word": "Eclectic",
+        "english_meaning": "Mixed styles or influences",
+        "hindi_meaning": "मिश्रित, विविधता से भरा"
+    },
+    {
+        "word": "Eerie",
+        "english_meaning": "Strange and scary",
+        "hindi_meaning": "भयानक, डरावना"
+    },
+    {
+        "word": "Eloquent",
+        "english_meaning": "Fluent and persuasive in speaking",
+        "hindi_meaning": "प्रभावी ढंग से बोलने वाला"
+    },
+    {
+        "word": "Emaciated",
+        "english_meaning": "Extremely thin and weak",
+        "hindi_meaning": "अत्यधिक दुबला-पतला"
+    },
+    {
+        "word": "Embezzle",
+        "english_meaning": "Steal from an organization",
+        "hindi_meaning": "गबन करना, धन का दुरुपयोग"
+    },
+    {
+        "word": "Embodiment",
+        "english_meaning": "Perfect example of something",
+        "hindi_meaning": "सजीव उदाहरण"
+    },
+    {
+        "word": "Emphatic",
+        "english_meaning": "Forceful and clear",
+        "hindi_meaning": "ज़ोरदार, स्पष्ट"
+    },
+    {
+        "word": "Endeavor",
+        "english_meaning": "Serious effort",
+        "hindi_meaning": "प्रयास, कोशिश"
+    },
+    {
+        "word": "Engulf",
+        "english_meaning": "Completely cover or surround",
+        "hindi_meaning": "निगल लेना, घेर लेना"
+    },
+    {
+        "word": "Enmity",
+        "english_meaning": "Deep hatred",
+        "hindi_meaning": "गहरी दुश्मनी"
+    },
+    {
+        "word": "Enthrall",
+        "english_meaning": "Capture attention completely",
+        "hindi_meaning": "मोहित करना, मंत्रमुग्ध करना"
+    },
+    {
+        "word": "Enunciate",
+        "english_meaning": "Pronounce clearly",
+        "hindi_meaning": "स्पष्ट उच्चारण करना"
+    },
+    {
+        "word": "Ephemeral",
+        "english_meaning": "Lasting a short time",
+        "hindi_meaning": "अल्पकालिक, क्षणभंगुर"
+    },
+    {
+        "word": "Equanimity",
+        "english_meaning": "Calmness under pressure",
+        "hindi_meaning": "मानसिक संतुलन"
+    },
+    {
+        "word": "Erroneous",
+        "english_meaning": "Incorrect or wrong",
+        "hindi_meaning": "गलत, त्रुटिपूर्ण"
+    },
+    {
+        "word": "Exquisite",
+        "english_meaning": "Beautifully made",
+        "hindi_meaning": "सुंदर, उत्कृष्ट"
+    },
+    {
+        "word": "Extol",
+        "english_meaning": "Praise highly",
+        "hindi_meaning": "अत्यधिक प्रशंसा करना"
+    },
+    {
+        "word": "Fallible",
+        "english_meaning": "Capable of making mistakes",
+        "hindi_meaning": "त्रुटिपूर्ण होने की संभावना"
+    },
+    {
+        "word": "Fathom",
+        "english_meaning": "Understand deeply",
+        "hindi_meaning": "गहराई से समझना"
+    },
+    {
+        "word": "Fickle",
+        "english_meaning": "Changing frequently",
+        "hindi_meaning": "अस्थिर, बदलता रहने वाला"
+    },
+    {
+        "word": "Flamboyant",
+        "english_meaning": "Very showy",
+        "hindi_meaning": "दिखावटी, चमकदार"
+    },
+    {
+        "word": "Flustered",
+        "english_meaning": "Confused and nervous",
+        "hindi_meaning": "घबराया हुआ"
+    },
+    {
+        "word": "Foreboding",
+        "english_meaning": "A bad feeling about the future",
+        "hindi_meaning": "अनिष्ट की आशंका"
+    },
+    {
+        "word": "Frivolous",
+        "english_meaning": "Unimportant or silly",
+        "hindi_meaning": "महत्वहीन, तुच्छ"
+    },
+    {
+        "word": "Gaudy",
+        "english_meaning": "Overly bright or flashy",
+        "hindi_meaning": "भड़कीला, चमकीला"
+    },
+    {
+        "word": "Germane",
+        "english_meaning": "Relevant or related",
+        "hindi_meaning": "प्रासंगिक, संबंधित"
+    },
+    {
+        "word": "Gist",
+        "english_meaning": "Main point of something",
+        "hindi_meaning": "सारांश, मूल बात"
+    },
+    {
+        "word": "Gluttony",
+        "english_meaning": "Overeating greedily",
+        "hindi_meaning": "अत्यधिक भोजन करने की आदत"
+    },
+    {
+        "word": "Gratuitous",
+        "english_meaning": "Unnecessary or excessive",
+        "hindi_meaning": "अनावश्यक, अतिरेक"
+    },
+    {
+        "word": "Gregarious",
+        "english_meaning": "Social and outgoing",
+        "hindi_meaning": "मिलनसार, सामाजिक"
+    },
+    {
+        "word": "Grimace",
+        "english_meaning": "Facial expression of pain/disgust",
+        "hindi_meaning": "दर्द या नफरत का भाव"
+    },
+    {
+        "word": "Hapless",
+        "english_meaning": "Very unlucky",
+        "hindi_meaning": "बहुत बदकिस्मत"
+    },
+    {
+        "word": "Haughty",
+        "english_meaning": "Arrogant or superior attitude",
+        "hindi_meaning": "घमंडी, अहंकारी"
+    },
+    {
+        "word": "Heinous",
+        "english_meaning": "Shockingly evil",
+        "hindi_meaning": "जघन्य, क्रूर"
+    },
+    {
+        "word": "Hindrance",
+        "english_meaning": "Something that blocks progress",
+        "hindi_meaning": "बाधा, रुकावट"
+    },
+    {
+        "word": "Hubris",
+        "english_meaning": "Overconfidence or arrogance",
+        "hindi_meaning": "अहंकार, दंभ"
+    },
+    {
+        "word": "Impeccable",
+        "english_meaning": "Flawless or perfect",
+        "hindi_meaning": "निर्दोष, बेहतरीन"
+    },
+    {
+        "word": "Impediment",
+        "english_meaning": "Obstacle or barrier",
+        "hindi_meaning": "बाधा, रुकावट"
+    },
+    {
+        "word": "Impetuous",
+        "english_meaning": "Acting without thinking",
+        "hindi_meaning": "बिना सोचे-समझे कार्य करना"
+    },
+    {
+        "word": "Imposing",
+        "english_meaning": "Impressive in appearance",
+        "hindi_meaning": "प्रभावशाली दिखने वाला"
+    },
+    {
+        "word": "Imprudent",
+        "english_meaning": "Lacking good judgment",
+        "hindi_meaning": "अविवेकी, लापरवाह"
+    },
+    {
+        "word": "Incendiary",
+        "english_meaning": "Designed to start fires or conflicts",
+        "hindi_meaning": "आग या विवाद भड़काने वाला"
+    },
+    {
+        "word": "Incessant",
+        "english_meaning": "Never stopping",
+        "hindi_meaning": "लगातार, अनवरत"
+    },
+    {
+        "word": "Incognito",
+        "english_meaning": "In disguise",
+        "hindi_meaning": "भेष बदलकर"
+    },
+    {
+        "word": "Indelible",
+        "english_meaning": "Cannot be erased",
+        "hindi_meaning": "अमिट, स्थायी"
+    },
+    {
+        "word": "Indict",
+        "english_meaning": "Formally accuse of a crime",
+        "hindi_meaning": "औपचारिक रूप से अपराधी ठहराना"
+    },
+    {
+        "word": "Indifferent",
+        "english_meaning": "Not caring either way",
+        "hindi_meaning": "उदासीन, निष्पक्ष"
+    },
+    {
+        "word": "Inept",
+        "english_meaning": "Clumsy or unskilled",
+        "hindi_meaning": "अयोग्य, अनाड़ी"
+    },
+    {
+        "word": "Infer",
+        "english_meaning": "Conclude from evidence",
+        "hindi_meaning": "अनुमान लगाना"
+    },
+    {
+        "word": "Ingenuity",
+        "english_meaning": "Cleverness and creativity",
+        "hindi_meaning": "चतुराई, रचनात्मकता"
+    },
+    {
+        "word": "Innocuous",
+        "english_meaning": "Harmless or safe",
+        "hindi_meaning": "हानिरहित, सुरक्षित"
+    },
+    {
+        "word": "Insidious",
+        "english_meaning": "Secretly harmful",
+        "hindi_meaning": "छिपा हुआ हानिकारक"
+    },
+    {
+        "word": "Intermittent",
+        "english_meaning": "Occurring at irregular intervals",
+        "hindi_meaning": "रुक-रुककर होने वाला"
+    },
+    {
+        "word": "Inundate",
+        "english_meaning": "Overwhelm or flood",
+        "hindi_meaning": "बाढ़ या अधिक मात्रा में भर जाना"
+    },
+    {
+        "word": "Jargon",
+        "english_meaning": "Specialized language of a profession",
+        "hindi_meaning": "किसी विशेष क्षेत्र की भाषा"
+    },
+    {
+        "word": "Jaunty",
+        "english_meaning": "Cheerful and confident",
+        "hindi_meaning": "प्रसन्नचित्त, आत्मविश्वासी"
+    },
+    {
+        "word": "Jostle",
+        "english_meaning": "Push roughly in a crowd",
+        "hindi_meaning": "धक्का-मुक्की करना"
+    },
+    {
+        "word": "Jubilant",
+        "english_meaning": "Extremely joyful",
+        "hindi_meaning": "अत्यधिक आनंदित"
+    },
+    {
+        "word": "Juxtapose",
+        "english_meaning": "Place things side by side for contrast",
+        "hindi_meaning": "तुलनात्मक रूप से साथ रखना"
+    },
+    {
+        "word": "Keen",
+        "english_meaning": "Sharp, eager, or intense",
+        "hindi_meaning": "तीव्र, उत्साही"
+    },
+    {
+        "word": "Knack",
+        "english_meaning": "Natural skill",
+        "hindi_meaning": "स्वाभाविक कौशल"
+    },
+    {
+        "word": "Lament",
+        "english_meaning": "Express sorrow or regret",
+        "hindi_meaning": "शोक व्यक्त करना"
+    },
+    {
+        "word": "Languid",
+        "english_meaning": "Slow, relaxed, and lazy",
+        "hindi_meaning": "सुस्त, ढीला"
+    },
+    {
+        "word": "Latent",
+        "english_meaning": "Hidden but present",
+        "hindi_meaning": "गुप्त, सुप्त"
+    },
+    {
+        "word": "Lavish",
+        "english_meaning": "Extremely generous or extravagant",
+        "hindi_meaning": "अत्यधिक उदार, भव्य"
+    },
+    {
+        "word": "Lenient",
+        "english_meaning": "Not strict or harsh",
+        "hindi_meaning": "नरम स्वभाव वाला"
+    },
+    {
+        "word": "Lethargic",
+        "english_meaning": "Lacking energy",
+        "hindi_meaning": "सुस्त, निठल्ला"
+    },
+    {
+        "word": "Lucrative",
+        "english_meaning": "Profitable",
+        "hindi_meaning": "लाभदायक"
+    },
+    {
+        "word": "Malady",
+        "english_meaning": "Disease or illness",
+        "hindi_meaning": "बीमारी, रोग"
+    },
+    {
+        "word": "Malign",
+        "english_meaning": "Speak badly about someone",
+        "hindi_meaning": "बदनाम करना"
+    },
+    {
+        "word": "Maverick",
+        "english_meaning": "Independent thinker",
+        "hindi_meaning": "स्वतंत्र विचारक"
+    },
+    {
+        "word": "Meander",
+        "english_meaning": "Wander without direction",
+        "hindi_meaning": "भटकना, इधर-उधर घूमना"
+    },
+    {
+        "word": "Melancholy",
+        "english_meaning": "Deep sadness",
+        "hindi_meaning": "गहरी उदासी"
+    },
+    {
+        "word": "Menial",
+        "english_meaning": "Low-status or boring work",
+        "hindi_meaning": "घटिया या उबाऊ काम"
+    },
+    {
+        "word": "Meticulous",
+        "english_meaning": "Extremely careful with details",
+        "hindi_meaning": "अत्यधिक सावधान, सूक्ष्म"
+    },
+    {
+        "word": "Mirth",
+        "english_meaning": "Laughter or joy",
+        "hindi_meaning": "हँसी, उल्लास"
+    },
+    {
+        "word": "Misconstrue",
+        "english_meaning": "Misunderstand",
+        "hindi_meaning": "गलत समझना"
+    },
+    {
+        "word": "Modicum",
+        "english_meaning": "Small amount",
+        "hindi_meaning": "अल्प मात्रा"
+    },
+    {
+        "word": "Mundane",
+        "english_meaning": "Boring and ordinary",
+        "hindi_meaning": "साधारण, नीरस"
+    },
+    {
+        "word": "Myriad",
+        "english_meaning": "A large number",
+        "hindi_meaning": "असंख्य, बहुत अधिक"
+    },
+    {
+        "word": "Nebulous",
+        "english_meaning": "Unclear or vague",
+        "hindi_meaning": "अस्पष्ट, धुंधला"
+    },
+    {
+        "word": "Negate",
+        "english_meaning": "Cancel or make ineffective",
+        "hindi_meaning": "निष्क्रिय करना, नकार देना"
+    },
+    {
+        "word": "Noteworthy",
+        "english_meaning": "Worth paying attention to",
+        "hindi_meaning": "ध्यान देने योग्य"
+    },
+    {
+        "word": "Nuance",
+        "english_meaning": "Subtle difference",
+        "hindi_meaning": "सूक्ष्म अंतर"
+    },
+    {
+        "word": "Oblivion",
+        "english_meaning": "Being forgotten or unaware",
+        "hindi_meaning": "विस्मृति, अचेतन अवस्था"
+    },
+    {
+        "word": "Obscure",
+        "english_meaning": "Unclear or hard to understand",
+        "hindi_meaning": "अस्पष्ट, अनिश्चित"
+    },
+    {
+        "word": "Onerous",
+        "english_meaning": "Burdensome and difficult",
+        "hindi_meaning": "कठिन और बोझिल"
+    },
+    {
+        "word": "Opulent",
+        "english_meaning": "Luxuriously rich",
+        "hindi_meaning": "शानदार, समृद्ध"
+    },
+    {
+        "word": "Ornate",
+        "english_meaning": "Heavily decorated",
+        "hindi_meaning": "अलंकृत, सुसज्जित"
+    },
+    {
+        "word": "Ostentatious",
+        "english_meaning": "Showy and pretentious",
+        "hindi_meaning": "दिखावटी, भड़कीला"
+    },
+    {
+        "word": "Overt",
+        "english_meaning": "Obvious and open",
+        "hindi_meaning": "स्पष्ट, खुला हुआ"
+    },
+    {
+        "word": "Palpable",
+        "english_meaning": "So strong you can almost feel it",
+        "hindi_meaning": "स्पष्ट रूप से अनुभव योग्य"
+    },
+    {
+        "word": "Panacea",
+        "english_meaning": "Universal solution",
+        "hindi_meaning": "सर्व-रोग-नाशक उपाय"
+    },
+    {
+        "word": "Paradox",
+        "english_meaning": "Contradictory but true statement",
+        "hindi_meaning": "विरोधाभासी लेकिन सत्य कथन"
+    },
+    {
+        "word": "Patronize",
+        "english_meaning": "Support financially / Talk down to someone",
+        "hindi_meaning": "आर्थिक सहायता देना / उपदेशात्मक व्यवहार करना"
+    },
+    {
+        "word": "Peculiar",
+        "english_meaning": "Strange or unusual",
+        "hindi_meaning": "अजीब, असामान्य"
+    },
+    {
+        "word": "Penchant",
+        "english_meaning": "Strong liking",
+        "hindi_meaning": "गहरी रुचि"
+    },
+    {
+        "word": "Perfunctory",
+        "english_meaning": "Done with little effort",
+        "hindi_meaning": "ऊपरी मन से किया गया"
+    },
+    {
+        "word": "Perilous",
+        "english_meaning": "Very dangerous",
+        "hindi_meaning": "अत्यधिक खतरनाक"
+    },
+    {
+        "word": "Permeate",
+        "english_meaning": "Spread throughout",
+        "hindi_meaning": "संपूर्ण फैल जाना"
+    },
+    {
+        "word": "Pertinent",
+        "english_meaning": "Relevant to the topic",
+        "hindi_meaning": "प्रासंगिक, विषय से संबंधित"
+    },
+    {
+        "word": "Pervasive",
+        "english_meaning": "Spread everywhere",
+        "hindi_meaning": "सर्वव्यापी, चारों ओर फैला हुआ"
+    },
+    {
+        "word": "Philanthropy",
+        "english_meaning": "Charity and generosity",
+        "hindi_meaning": "परोपकार, उदारता"
+    },
+    {
+        "word": "Plausible",
+        "english_meaning": "Believable or reasonable",
+        "hindi_meaning": "विश्वसनीय, संभावित"
+    },
+    {
+        "word": "Plight",
+        "english_meaning": "Difficult situation",
+        "hindi_meaning": "कठिन परिस्थिति"
+    },
+    {
+        "word": "Poignant",
+        "english_meaning": "Emotionally touching",
+        "hindi_meaning": "मार्मिक, भावनात्मक"
+    },
+    {
+        "word": "Pragmatic",
+        "english_meaning": "Practical",
+        "hindi_meaning": "व्यावहारिक"
+    },
+    {
+        "word": "Precarious",
+        "english_meaning": "Dangerous or unstable",
+        "hindi_meaning": "अस्थिर, जोखिमपूर्ण"
+    },
+    {
+        "word": "Precedent",
+        "english_meaning": "Example from the past",
+        "hindi_meaning": "पूर्व उदाहरण"
+    },
+    {
+        "word": "Precursor",
+        "english_meaning": "Something that comes before",
+        "hindi_meaning": "पूर्ववर्ती, अग्रदूत"
+    },
+    {
+        "word": "Pristine",
+        "english_meaning": "Perfectly clean or untouched",
+        "hindi_meaning": "एकदम नया, स्वच्छ"
+    },
+    {
+        "word": "Proclivity",
+        "english_meaning": "Natural tendency",
+        "hindi_meaning": "स्वाभाविक प्रवृत्ति"
+    },
+    {
+        "word": "Proficient",
+        "english_meaning": "Skilled at something",
+        "hindi_meaning": "कुशल, निपुण"
+    },
+    {
+        "word": "Propensity",
+        "english_meaning": "Natural inclination",
+        "hindi_meaning": "प्रवृत्ति, झुकाव"
+    },
+    {
+        "word": "Prosaic",
+        "english_meaning": "Ordinary and dull",
+        "hindi_meaning": "नीरस, साधारण"
+    },
+    {
+        "word": "Prudent",
+        "english_meaning": "Wise and careful",
+        "hindi_meaning": "समझदार, सतर्क"
+    },
+    {
+        "word": "Quaint",
+        "english_meaning": "Attractively old-fashioned",
+        "hindi_meaning": "पुरानी लेकिन आकर्षक"
+    },
+    {
+        "word": "Quandary",
+        "english_meaning": "Dilemma or difficult situation",
+        "hindi_meaning": "दुविधा, कठिनाई"
+    },
+    {
+        "word": "Quell",
+        "english_meaning": "Suppress or put an end to",
+        "hindi_meaning": "दबाना, समाप्त करना"
+    },
+    {
+        "word": "Quirk",
+        "english_meaning": "Odd habit or characteristic",
+        "hindi_meaning": "अजीब आदत या विशेषता"
+    },
+    {
+        "word": "Quixotic",
+        "english_meaning": "Unrealistically idealistic",
+        "hindi_meaning": "अव्यावहारिक रूप से आदर्शवादी"
+    },
+    {
+        "word": "Rancor",
+        "english_meaning": "Deep bitterness",
+        "hindi_meaning": "गहरी कटुता"
+    },
+    {
+        "word": "Rebuke",
+        "english_meaning": "Criticize harshly",
+        "hindi_meaning": "कड़ी आलोचना करना"
+    },
+    {
+        "word": "Sesquipedalian",
+        "english_meaning": "Using long, complex words",
+        "hindi_meaning": "लंबे और जटिल शब्दों का उपयोग करने वाला"
+    },
+    {
+        "word": "Obfuscate",
+        "english_meaning": "Confuse by making something unclear",
+        "hindi_meaning": "उलझाना, अस्पष्ट बनाना"
+    },
+    {
+        "word": "Pernicious",
+        "english_meaning": "Harmful in a subtle way",
+        "hindi_meaning": "गुप्त रूप से हानिकारक"
+    },
+    {
+        "word": "Ephemeral",
+        "english_meaning": "Lasting for a short time",
+        "hindi_meaning": "अल्पकालिक, क्षणिक"
+    },
+    {
+        "word": "Ubiquitous",
+        "english_meaning": "Found everywhere",
+        "hindi_meaning": "सर्वव्यापी, हर जगह मिलने वाला"
+    },
+    {
+        "word": "Superfluous",
+        "english_meaning": "More than necessary",
+        "hindi_meaning": "अनावश्यक, अधिक मात्रा में"
+    },
+    {
+        "word": "Perspicacious",
+        "english_meaning": "Having sharp insight",
+        "hindi_meaning": "तीव्र अंतर्दृष्टि वाला"
+    },
+    {
+        "word": "Sagacious",
+        "english_meaning": "Wise and intelligent",
+        "hindi_meaning": "बुद्धिमान, दूरदर्शी"
+    },
+    {
+        "word": "Juxtaposition",
+        "english_meaning": "Placing things side by side for contrast",
+        "hindi_meaning": "तुलनात्मक रूप से पास-पास रखना"
+    },
+    {
+        "word": "Ineffable",
+        "english_meaning": "Too great to be expressed in words",
+        "hindi_meaning": "अवर्णनीय, जिसे शब्दों में व्यक्त नहीं किया जा सके"
+    },
+    {
+        "word": "Discombobulate",
+        "english_meaning": "Confuse or disorient",
+        "hindi_meaning": "घबरा देना, भ्रमित कर देना"
+    },
+    {
+        "word": "Verisimilitude",
+        "english_meaning": "Appearance of being true or real",
+        "hindi_meaning": "सच्चाई जैसा प्रतीत होना"
+    },
+    {
+        "word": "Quintessential",
+        "english_meaning": "The purest example of something",
+        "hindi_meaning": "सर्वोत्तम उदाहरण"
+    },
+    {
+        "word": "Egregious",
+        "english_meaning": "Shockingly bad",
+        "hindi_meaning": "भयंकर रूप से बुरा"
+    },
+    {
+        "word": "Ostentatious",
+        "english_meaning": "Showy, overly extravagant",
+        "hindi_meaning": "दिखावटी, आडंबरपूर्ण"
+    },
+    {
+        "word": "Esoteric",
+        "english_meaning": "Known only to a few people",
+        "hindi_meaning": "गूढ़, कुछ ही लोगों को ज्ञात"
+    },
+    {
+        "word": "Lugubrious",
+        "english_meaning": "Extremely sad or gloomy",
+        "hindi_meaning": "बहुत उदास या गंभीर"
+    },
+    {
+        "word": "Chicanery",
+        "english_meaning": "Trickery, deception",
+        "hindi_meaning": "छल-कपट, धोखाधड़ी"
+    },
+    {
+        "word": "Vituperative",
+        "english_meaning": "Bitter & abusive language",
+        "hindi_meaning": "कठोर और अपमानजनक भाषा"
+    },
+    {
+        "word": "Obsequious",
+        "english_meaning": "Overly submissive, like a sycophant",
+        "hindi_meaning": "चापलूसी करने वाला, अत्यधिक आज्ञाकारी"
+    },
+    {
+        "word": "Apoplectic",
+        "english_meaning": "Extremely angry",
+        "hindi_meaning": "अत्यधिक क्रोधित"
+    },
+    {
+        "word": "Mellifluous",
+        "english_meaning": "Smooth and pleasant-sounding",
+        "hindi_meaning": "मधुर और सुरीला"
+    },
+    {
+        "word": "Laconic",
+        "english_meaning": "Using very few words",
+        "hindi_meaning": "संक्षिप्त, कम शब्दों में बोलने वाला"
+    },
+    {
+        "word": "Recalcitrant",
+        "english_meaning": "Stubbornly resistant",
+        "hindi_meaning": "हठी, ज़िद्दी"
+    },
+    {
+        "word": "Magnanimous",
+        "english_meaning": "Generous and forgiving",
+        "hindi_meaning": "उदार और क्षमाशील"
+    },
+    {
+        "word": "Fastidious",
+        "english_meaning": "Very attentive to details",
+        "hindi_meaning": "बहुत सूक्ष्मता से ध्यान देने वाला"
+    },
+    {
+        "word": "Pusillanimous",
+        "english_meaning": "Cowardly or timid",
+        "hindi_meaning": "डरपोक, कायर"
+    },
+    {
+        "word": "Incorrigible",
+        "english_meaning": "Impossible to reform or correct",
+        "hindi_meaning": "असुधारनीय"
+    },
+    {
+        "word": "Truculent",
+        "english_meaning": "Eager to argue or fight",
+        "hindi_meaning": "झगड़ालू, लड़ाई के लिए तत्पर"
+    },
+    {
+        "word": "Myopic",
+        "english_meaning": "Short-sighted, lacking foresight",
+        "hindi_meaning": "दूरदृष्टि का अभाव, संकुचित दृष्टिकोण"
+    },
+    {
+        "word": "Ennui",
+        "english_meaning": "Deep boredom or dissatisfaction",
+        "hindi_meaning": "गहरी ऊब या असंतोष"
+    },
+    {
+        "word": "Diaphanous",
+        "english_meaning": "Light, delicate, transparent",
+        "hindi_meaning": "हल्का, कोमल, पारदर्शी"
+    },
+    {
+        "word": "Irascible",
+        "english_meaning": "Easily angered",
+        "hindi_meaning": "जल्दी गुस्सा होने वाला"
+    },
+    {
+        "word": "Redolent",
+        "english_meaning": "Strongly reminiscent of something",
+        "hindi_meaning": "किसी चीज़ की याद दिलाने वाला"
+    },
+    {
+        "word": "Obdurate",
+        "english_meaning": "Stubbornly refusing to change",
+        "hindi_meaning": "हठी, अडिग"
+    },
+    {
+        "word": "Sycophant",
+        "english_meaning": "Someone who flatters for personal gain",
+        "hindi_meaning": "चाटुकार, स्वार्थी चापलूस"
+    },
+    {
+        "word": "Proclivity",
+        "english_meaning": "Natural tendency or habit",
+        "hindi_meaning": "स्वाभाविक प्रवृत्ति"
+    },
+    {
+        "word": "Propinquity",
+        "english_meaning": "Closeness in space or relationship",
+        "hindi_meaning": "निकटता, समीपता"
+    },
+    {
+        "word": "Perspicuity",
+        "english_meaning": "Clarity in thought or expression",
+        "hindi_meaning": "स्पष्टता, स्पष्ट विचारधारा"
+    },
+    {
+        "word": "Alacrity",
+        "english_meaning": "Eagerness and enthusiasm",
+        "hindi_meaning": "तत्परता, उत्साह"
+    },
+    {
+        "word": "Anachronistic",
+        "english_meaning": "Belonging to the wrong time period",
+        "hindi_meaning": "कालविसंगत, गलत समय से जुड़ा हुआ"
+    },
+    {
+        "word": "Insipid",
+        "english_meaning": "Lacking flavor or excitement",
+        "hindi_meaning": "नीरस, बेस्वाद"
+    },
+    {
+        "word": "Ebullient",
+        "english_meaning": "Full of energy and enthusiasm",
+        "hindi_meaning": "जोश और ऊर्जा से भरपूर"
+    },
+    {
+        "word": "Perfidious",
+        "english_meaning": "Deceitful and untrustworthy",
+        "hindi_meaning": "विश्वासघाती, धोखेबाज"
+    },
+    {
+        "word": "Munificent",
+        "english_meaning": "Extremely generous",
+        "hindi_meaning": "अत्यंत उदार"
+    },
+    {
+        "word": "Cacophony",
+        "english_meaning": "Harsh mixture of sounds",
+        "hindi_meaning": "कर्कश ध्वनि"
+    },
+    {
+        "word": "Pulchritudinous",
+        "english_meaning": "Extremely beautiful",
+        "hindi_meaning": "अत्यधिक सुंदर"
+    },
+    {
+        "word": "Opprobrium",
+        "english_meaning": "Harsh criticism or disgrace",
+        "hindi_meaning": "कठोर निंदा, बदनामी"
+    },
+    {
+        "word": "Tantamount",
+        "english_meaning": "Equivalent in effect or value",
+        "hindi_meaning": "बराबर, समान"
+    },
+    {
+        "word": "Flummoxed",
+        "english_meaning": "Completely confused or perplexed",
+        "hindi_meaning": "पूरी तरह से भ्रमित"
+    }
+]
